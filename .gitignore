@@ -10,3 +10,6 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
+
+vision-api.json
+!.lein-env.example
